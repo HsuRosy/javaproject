@@ -14,5 +14,6 @@ public class Main {
         mainFrame.setVisible(true);
         // 界面加载完后，加载数据
         MainFrame.init();
+        System.out.println();
     }
 }
